@@ -1,5 +1,7 @@
 # SI-1104 - ESP32 4 Kanal Röle Geliştirme Modülü
 
+![Build Status](https://github.com/diodeiot/DiodeIoT_SI-1104/workflows/Arduino%20Library%20CI/badge.svg)
+
 ![top](https://user-images.githubusercontent.com/111313342/184736053-74586f82-7117-478b-9c03-7302644e917f.png)
 
 ## SI-1104 Nedir?
@@ -15,6 +17,11 @@ Bu geliştirme modülü:
 * Güç Anahtarlama
 
 başta olmak üzere amatör ve profesyonel herhangi bir amaç için kullanılabilir.
+
+## Dökümantasyon
+[<img alt="github-pages" width="150px" src="https://user-images.githubusercontent.com/100811304/184258420-58ed4a45-29ce-4329-9260-c54ae8973690.png" />](https://diodeiot.github.io/DiodeIoT_SI-1104)
+
+Kaynak kodların dökümantasyonuna [buradan](https://diodeiot.github.io/DiodeIoT_SI-1104) ulaşabilirsiniz.
 
 ## Teknik Özellikler
 
